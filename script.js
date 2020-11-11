@@ -1,4 +1,4 @@
-function goBtnClick(data){
+function checkputsoicallsoi(){
 var tableData = document.getElementById("octable").getElementsByTagName("tbody")[0].getElementsByTagName("tr");
 var totalRows = tableData.length - 1;
 var diffRow = 0;
