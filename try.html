@@ -1,0 +1,13 @@
+<script>
+var myLoc = window.prompt('Please enter a web site address', 'http://');
+getHttp =   myLoc.substring(0, 7);
+ 
+if ( getHttp == "http://")
+{
+finalUrl = myLoc;
+} else {
+finalUrl = 'http://' + myLoc;
+}
+ 
+window.location = 'view-source:' + finalUrl;
+</script>
