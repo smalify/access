@@ -12,7 +12,7 @@ for(var i=0;i<totalRows;i++){
 var startRow = diffRow - 7;
 var endRow = diffRow + 7;
 var row,callsOI,putsOI;
-var data="Strike Price    |   PUTSOI/CALLSOI\n";
+var data="Strike Price       PUTSOI/CALLSOI\n";
 for(var i=startRow;i<endRow;i++){
     row = tableData[i].getElementsByTagName("td");
     callsOI = parseInt(row[1].innerText.replace(/,/g, ""));
