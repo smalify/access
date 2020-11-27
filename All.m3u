@@ -155,9 +155,9 @@ http://jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Ten 3
 http://jiotv.live.cdn.jio.com/Ten_3/Ten_3_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Sony Six HD
-http://jiotv.live.cdn.jio.com/Six_HD/Six_HD_TAB.m3u8
+http://vcptv.com/vcp.m3u8?id=48154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Sony Six SD
-http://jiotv.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_TAB.m3u8
+http://jiotv.live.cdn.jio.com/Six_HD/Six_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Eurosport
 http://jiotv.live.cdn.jio.com/Dsports/Dsports_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Eurosport HD
