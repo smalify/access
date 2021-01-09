@@ -1521,7 +1521,7 @@ https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/chunk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Tamil - Local Channels",DD Sports
 https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test
-http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_303
+http://vcpairteltv.com/vcpairtel.mpd?id=MWTV_LIVETVCHANNEL_303
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test 1
 https://bitmovin-a.akamaihd.net/content/playhouse-vr/mpds/105560.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test 2
