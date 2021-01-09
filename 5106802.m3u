@@ -1527,4 +1527,4 @@ https://bitmovin-a.akamaihd.net/content/playhouse-vr/mpds/105560.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test 2
 https://live.airtelxstream.in:443/sonysixhd/smil:common.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test 3
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_303
+http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_713
