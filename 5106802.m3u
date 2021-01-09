@@ -1520,3 +1520,5 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w517735769.m3
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/chunklist_w412749526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Tamil - Local Channels",DD Sports
 https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Test - Airtel",Test
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_303
