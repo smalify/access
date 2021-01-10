@@ -1521,16 +1521,16 @@ https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/chunk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Tamil - Local Channels",DD Sports
 https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_977/LOGO/pV5sbyUn.png" group-title="Tamil - Airtel",Sun TV
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_977
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_957/LOGO/r5N31jUM.png" group-title="Tamil - Airtel",KTV
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_957
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_957
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_978/img_logo_sunmusic.png="Tamil - Airtel",Sun Music
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_978
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_978
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_979/LOGO/Ja8r9GlM.png" group-title="Tamil - Airtel",Sun Life
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_979
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_979
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_954/LOGO/8BZ59tqy.png" group-title="Tamil - Airtel",Aditya TV
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_954
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_713/LOGO/c48c05f4-da90-41bf-bca7-b7ea74547318.png" group-title="Tamil - Airtel",Raj TV
-http://vcpairteltv.com/vcpairtel?id=MWTV_LIVETVCHANNEL_713
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_713/PORTRAIT/J9IAV23y.png" group-title="Tamil - Airtel",Raj TV
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_713
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_552/LOGO/60bea115-0e80-413c-9875-0cb382eb2a30.jpg" group-title="Test - Airtel",Test DRM
 https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd
