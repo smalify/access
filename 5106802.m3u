@@ -102,14 +102,8 @@ http://jiotv.live.cdn.jio.com/BOX_CINEMA/BOX_CINEMA_TAB.m3u8
 http://jiotv.live.cdn.jio.com/Maha_Movies/Maha_Movies_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies HD
 http://jiotv.live.cdn.jio.com/Star_Movies_HD/Star_Movies_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies
-http://jiotv.live.cdn.jio.com/Star_Movies/Star_Movies_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix HD
 http://jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO HD
-http://jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" tvg-country="IN" tvg-url="" group-title="English - Movies",WB
-http://jiotv.live.cdn.jio.com/WB/WB_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies Select HD
 http://jiotv.live.cdn.jio.com/Star_Movies_Select_HD/Star_Movies_Select_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" tvg-country="IN" tvg-url="" group-title="English - Others",Hi Dost!
@@ -786,12 +780,12 @@ http://jiotv.live.cdn.jio.com/Vijay_TV/Vijay_TV_TAB.m3u8
 http://jiotv.live.cdn.jio.com/Zee_Tamil/Zee_Tamil_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Kalaignar TV
 http://jiotv.live.cdn.jio.com/Kalaignar_TV/Kalaignar_TV_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_792/Shabana-110.jpg" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Isai Aruvi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_792/PORTRAIT/G9ggozJQ.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Isai Aruvi
 http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_714/LANDSCAPE_169/2a106023-c100-4c6c-b9d6-212a83a4437c.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sirippoli
-http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_783/PORTRAIT/dmaLxoFa.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Kalaignar Murasu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_714/PORTRAIT/08f2d9c7-0f53-40b9-a198-c45b853f27f9.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sirippoli
 http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_783/PORTRAIT/dmaLxoFa.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Kalaignar Murasu
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_783
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Raj TV
 http://jiotv.live.cdn.jio.com/Raj_TV/Raj_TV_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Puthiya Thalimurai
@@ -1083,11 +1077,11 @@ http://jiotv.live.cdn.jio.com/sonic_Tamil/sonic_Tamil_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sony Yay Tamil
 http://jiotv.live.cdn.jio.com/Sony_Yay_Tamil/Sony_Yay_Tamil_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Movies Now HD
-http://jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_TAB.m3u8
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_10000000006570000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",MNX HD
-http://jiotv.live.cdn.jio.com/Movies_Now2_HD/Movies_Now2_HD_TAB.m3u8
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_10000000045360000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Romedy Now HD
-http://jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_TAB.m3u8
+http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_10000000017730000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-country="IN" tvg-url="" group-title="English - Movies",MN Plus HD
 http://jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" epg-url="http://jiotv.data.cdn.jio.com/apis/v1.3/getepg/get/?offset=0&channel_id=896&langId=6" group-title="Tamil - Entertainment",Sun TV HD
