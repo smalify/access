@@ -324,7 +324,7 @@ http://vcptv.com/pvc.m3u8?id=48006
 http://vcptv.com/pvc.m3u8?id=48007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Jaya TV HD
 http://jiotv.live.cdn.jio.com/Jaya_TV_HD/Jaya_TV_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sun Music HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sun Music
 http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_978
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Sun Life
 http://vcpairteltv.com/vcpairtel.m3u8?id=MWTV_LIVETVCHANNEL_979
