@@ -446,6 +446,164 @@ http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w517735769.m3
 https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/chunklist_w412749526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Tamil - Local Channels",DD Sports
 https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",3Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/captain.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG68898.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",BlueMoon TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG82595.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",City TV
+http://hdserver.7starcloud.com:1935/city/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG63230.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Starten TV
+http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85067.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jayaam TV
+http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58354.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jawahar Channel
+http://139.99.41.37:1935/jawaharchannel/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG17727.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Salem Merchi
+http://7starcloud.com:1935/salem/mirchi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29005.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vani TV HD
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Kalvi Tv
+http://7starcloud.com:1935/live/kalvii/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43207.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG65967.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6199.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Thirai TV
+http://139.99.41.37:1935/thirai/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35756.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Max TV
+http://139.99.41.37:1935/dream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG78014.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG10684.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer TV
+https://watchindia.net:8443/live/12140/71275/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36010.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New", MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3523.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG97465.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39940.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",UTV(Trichy)
+http://7starcloud.com:1935/utv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15218.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sky Gain TV
+https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74610.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nandhanna TV
+http://media.7starcloud.com:1935/nandhanna/nandhannatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG56025.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",OM TV(Omalur)
+http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39299.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN TV
+https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",SR MUSIX
+http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66916.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Isai Saral
+http://bmlive.net:8000/SRmusix/srmusix/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",SS TV
+http://7starcloud.com:1935/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG47835.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96815.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nila TV
+http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53779.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sri Krishna TV(T.kode)
+rtmp://7starcloud.com:1935/lotustv/lotustv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Arunai Tv
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61473.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ARK TV
+http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Velur TV
+http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG94651.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Siluvai TV
+http://hdserver.7starcloud.com:1935/siluvaitv/siluvaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36575.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG94507.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MY TV
+http://7starcloud.com:1935/mytv/mytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2321.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Rainbow TV
+http://7starcloud.com:1935/rainbowtv/liverainbowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG31950.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6334.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Aarya TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51065.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaanavil Plus
+http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG23290.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jeyson TV
+http://7starcloud.com:1935/live/jeysontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2227.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Bass TV
+http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG86627.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nivi TV
+http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40454.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",JJ Max
+http://hdserver.7starcloud.com:1935/jjmax/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",JPL TV
+http://51.79.158.179:1935/jpltv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",TDN
+http://139.99.41.37:1935/tdn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Imayam TV
+https://itvorigin.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57908.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MM TV
+http://hdserver.7starcloud.com:1935/mmtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3887.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG67748.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",7sMusic
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98289.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61021.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News 18 Tamilnadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69759.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MaalaiMurasu TV
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG87377.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News 7 Tamil
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG14345.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39858.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer News
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2121.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81475.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58239.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sathiyam TV
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Lotus News
+https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG23229.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG78365.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Captain News
+https://watchindia.net:8443/live/12140/71275/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG72513.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jaya Plus
+https://watchindia.net:8443/live/12140/71275/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sharon TV
+http://7starcloud.com:1935/elimtv/elimtvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",Sonic Telugu
 http://jiotv.live.cdn.jio.com/Sonic_Telugu/Sonic_Telugu_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",CN HD+ Telugu
