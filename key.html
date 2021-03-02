@@ -63,7 +63,12 @@
                     window.clearInterval(checkGP);
                 }
             }, 500);
-        }else{alert(navigator);}
+        }else{
+            for(var property in navigator){ 
+                var str = navigator[property];
+                document.write(property+ "&nbsp;&nbsp;<em>"+str+"</em><br />");
+            } 
+        }
  
     });
     </script>
