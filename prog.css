@@ -1,0 +1,14 @@
+.w3-container:after,.w3-container:before{content:"";display:table;clear:both}
+.w3-container{padding:0.01em 16px;margin-top:16px;margin-bottom:16px}
+.w3-center{text-align:center!important}
+.w3-blue{color:#fff!important;background-color:#2196F3!important}
+.w3-light-grey{color:#000!important;background-color:#f1f1f1!important}
+.w3-dark-grey{color:#fff!important;background-color:#616161!important}
+
+<div class="w3-container">
+<br>
+<div class="w3-light-grey">
+  <div class="w3-container w3-blue w3-center" style="width:75%">75%</div>
+</div><br>
+
+</div>
