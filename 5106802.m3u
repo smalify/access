@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Star Movies Trial
-http://heather.com/pvc.m3u8?id=starmovies
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Star Vijay HD
 http://vcptv.com/pvc.m3u8?id=48006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Vijay Super
@@ -682,8 +680,8 @@ http://jiotv.live.cdn.jio.com/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_TA
 http://jiotv.live.cdn.jio.com/Divya_Vani/Divya_Vani_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",Aastha Telugu
 http://jiotv.live.cdn.jio.com/Aastha_Telugu/Aastha_Telugu_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies HD
-http://vcptv.com/vcp.m3u8?id=47859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies
+http://heather.com/pvc.m3u8?id=juno/starmovies
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix HD
 http://vcptv.com/vcp.m3u8?id=48142
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix
@@ -692,6 +690,8 @@ http://jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_TAB.m3u8
 http://vcptv.com/vcp.m3u8?id=47861
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Movies Now HD
 http://vcptv.com/vcp.m3u8?id=48160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Movies Now HD - 2
+http://heather.com/pvc.m3u8?id=neptune/moviesnowhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-country="IN" tvg-url="" group-title="English - Movies",MN Plus HD
 http://vcptv.com/vcp.m3u8?id=48163
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports HD1
