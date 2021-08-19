@@ -4,10 +4,28 @@ http://heather.com/pvc.m3u8?id=vulcan/starvijay
 http://heather.com/pvc.m3u8?id=vulcan/suntv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun TV HD
 http://heather.com/pvc.m3u8?id=vulcan/suntvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun TV
+http://heather.com/pvc.m3u8?id=juno/suntv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun TV HD
+http://heather.com/pvc.m3u8?id=juno/suntvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun TV
+http://heather.com/pvc.m3u8?id=neptune/suntv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun TV HD
+http://heather.com/pvc.m3u8?id=neptune/suntvhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",K TV
 http://heather.com/pvc.m3u8?id=vulcan/ktv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",K TV HD
 http://heather.com/pvc.m3u8?id=vulcan/ktvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun Music
+http://heather.com/pvc.m3u8?id=vulcan/sunmusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun Music HD
+http://heather.com/pvc.m3u8?id=vulcan/sunmusichd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun News
+http://heather.com/pvc.m3u8?id=vulcan/sunnews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Sun Life
+http://heather.com/pvc.m3u8?id=vulcan/sunlife
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Test Channels",Adithya TV
+http://heather.com/pvc.m3u8?id=vulcan/adithyatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Vijay Super
 http://vcptv.com/pvc.m3u8?id=48007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",Jaya TV HD
