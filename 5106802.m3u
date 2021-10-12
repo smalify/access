@@ -912,3 +912,7 @@ https://hses5.hotstar.com/videos/hotstarint/1260000603/1100062278/v3/16339890957
 https://hses5.hotstar.com/videos/hotstarint/1260022970/1100062205/v3/1633893718257/c811af9e895e40605b055c0c2c4227f1/master-ce74d045b5.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/702/1040702-h-2ef6fff158ad" tvg-country="IN" tvg-url="" group-title="Hotstar - Shows",Baakiyalakshmi 12/10
 https://hses5.hotstar.com/videos/hotstarint/1260022970/1100062276/v3/1633990200762/a0e4a9dd2f1833f0b101bc6d5e2dbec3/master-a0f1a426f5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/3893/1063893-h-62576885fa3f" tvg-country="IN" tvg-url="" group-title="Hotstar - Shows",BB Tamil 12/10
+https://live-gec.hotstar.com/hls/live/670853/biggboss-tam-2021/day9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/2687/1052687-h-20cbf695bb0a" tvg-country="IN" tvg-url="" group-title="Hotstar - Shows",BB Telugu 12/10
+https://live-gec.hotstar.com/hls/live/670851/biggboss-telugu-2021/day37/playlist.m3u8
