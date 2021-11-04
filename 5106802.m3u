@@ -18,11 +18,11 @@ http://139.59.55.243/sunnxt/live.php?c=38926&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Chutti Tv
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - SUN Channels",Kalaignar TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - SUN Channels",Murasu TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - Sun Channels",Murasu TV
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/seithigal-tv-black.png" group-title="Tamil - SUN Channels",Kalaignar Seithigal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/seithigal-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar Seithigal
 https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sirippoli
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
