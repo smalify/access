@@ -29,7 +29,7 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",IsaiAruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",SunTV HD
-http://143.110.247.191/sunnxt/live.php?c=14020&e=.m3u8
+https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1642147535&e=1642176335&h=f7d382171b3d5393353bb7e2ff7818a7&type=hd&PlayBackId=2130436026&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Tamil - Star Channels",Star Vijay HD
 http://heather.com/pvc.m3u8?id=vulcan/starvijay
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" tvg-country="IN" tvg-url="" group-title="Tamil - Star Channels",Vijay Super
