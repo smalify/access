@@ -1,23 +1,23 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV HD
-http://143.110.247.191/sunnxt/live.php?c=14020&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=14020&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV SD
-http://143.110.247.191/sunnxt/live.php?c=9016&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9016&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV HD
-http://143.110.247.191/sunnxt/live.php?c=26566&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26566&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV SD
-http://143.110.247.191/sunnxt/live.php?c=32138&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=32138&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music HD
-http://143.110.247.191/sunnxt/live.php?c=9013&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9013&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music SD
-http://143.110.247.191/sunnxt/live.php?c=9025&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9025&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Life
-http://143.110.247.191/sunnxt/live.php?c=26569&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26569&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun News
-http://143.110.247.191/sunnxt/live.php?c=38926&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=38926&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Adithya TV
-http://143.110.247.191/sunnxt/live.php?c=9023&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=9023&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Chutti Tv
-http://143.110.247.191/sunnxt/live.php?c=26567&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26567&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - Sun Channels",Murasu TV
@@ -29,7 +29,7 @@ http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippol
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",IsaiAruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - DTH Channels",SunTV HD
-https://suntvlive.s.llnwi.net/SunTVHD/SunTVHD.isml/.m3u8?p=51&se=1642147535&e=1642176335&h=f7d382171b3d5393353bb7e2ff7818a7&type=hd&PlayBackId=2130436026&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=0
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=14020&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Vijay_tv.png" tvg-country="IN" tvg-url="" group-title="Tamil - Star Channels",Star Vijay HD
 http://heather.com/pvc.m3u8?id=vulcan/starvijay
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png" tvg-country="IN" tvg-url="" group-title="Tamil - Star Channels",Vijay Super
