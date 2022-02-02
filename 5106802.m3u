@@ -1,23 +1,23 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV HD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=14020
+http://vcpsnxt.com/vcp.m3u8?id=14020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV SD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=9016
+http://vcpsnxt.com/vcp.m3u8?id=9016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV HD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=26566
+http://vcpsnxt.com/vcp.m3u8?id=26566
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV SD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=32138
+http://vcpsnxt.com/vcp.m3u8?id=32138
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music HD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=9013
+http://vcpsnxt.com/vcp.m3u8?id=9013
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music SD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=9025
+http://vcpsnxt.com/vcp.m3u8?id=9025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Life
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=26569
+http://vcpsnxt.com/vcp.m3u8?id=26569
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun News
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=38926
+http://vcpsnxt.com/vcp.m3u8?id=38926
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Adithya TV
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=9023
+http://vcpsnxt.com/vcp.m3u8?id=9023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Chutti Tv
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=26567
+http://vcpsnxt.com/vcp.m3u8?id=26567
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - Sun Channels",Murasu TV
@@ -31,7 +31,7 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/inde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",JIO Token Update
 http://snxtapi.000webhostapp.com/jio-renew.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",SunTV HD
-http://snxtapi.000webhostapp.com/vcp.php?vcpcid=14020
+http://vcpsnxt.com/vcp.m3u8?id=14020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Jaya TV HD
 http://jiotv.live.cdn.jio.com/Jaya_TV_HD/Jaya_TV_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Puthu Yugam
