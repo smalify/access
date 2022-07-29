@@ -700,8 +700,8 @@ http://vcptv.com/vcp.m3u8?id=48160
 http://heather.com/pvc.m3u8?id=neptune/moviesnowhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-country="IN" tvg-url="" group-title="English - Movies",MN Plus HD
 http://vcptv.com/vcp.m3u8?id=48163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports",Fancode Ind vs WI
-https://livehin.fancode.com:443/hls/live/2093039/3030hindi49747ta-di/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://blog.digitalsevaa.com/wp-content/uploads/2021/05/fancode-1622142439227.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Fancode Ind vs WI
+https://livehin.fancode.com/hls/live/2093039/686hindi49749ta-di/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports HD1
 http://vcptv.com/vcp.m3u8?id=48106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports HD2
