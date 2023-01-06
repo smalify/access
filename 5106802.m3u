@@ -1,37 +1,51 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV HD
-http://vcpsnxt.com/vcp.m3u8?id=14020
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV SD
-http://vcpsnxt.com/vcp.m3u8?id=9016
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV HD
-http://vcpsnxt.com/vcp.m3u8?id=26566
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV SD
-http://vcpsnxt.com/vcp.m3u8?id=32138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music HD
-http://vcpsnxt.com/vcp.m3u8?id=9013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music SD
-http://vcpsnxt.com/vcp.m3u8?id=9025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Life
-http://vcpsnxt.com/vcp.m3u8?id=26569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun News
-http://vcpsnxt.com/vcp.m3u8?id=38926
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Adithya TV
-http://vcpsnxt.com/vcp.m3u8?id=9023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Chutti Tv
-http://vcpsnxt.com/vcp.m3u8?id=26567
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar TV 
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - Sun Channels",Murasu TV
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/seithigal-tv-black.png" group-title="Tamil - Sun Channels",Kalaignar Seithigal
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sirippoli
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",IsaiAruvi
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://sldhnecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN MUSIC HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN Music
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76489
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Max UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Movie UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya TV UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://sldhnecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Star Vijay
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76679
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Polimer TV
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76688
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Movies HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76689
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Zee Tamil
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76693
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Sun TV HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Movies
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV USA
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Max 2
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Plus
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya TV USA
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Puthiya Thalaimurai
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",RAJ Digital Plus
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76709
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",RAJ Musix
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",RAJ TV
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Raj Digital Plus UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Raj TV UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76713
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",JIO Token Update
 https://snxtapi.000webhostapp.com/JIO-LOGIN.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",SunTV HD
-http://vcpsnxt.com/vcp.m3u8?id=14020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Jaya TV HD
 http://jiotv.live.cdn.jio.com/Jaya_TV_HD/Jaya_TV_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Puthu Yugam
@@ -588,6 +602,36 @@ https://watchindia.net:8443/live/12140/71275/878.ts
 https://watchindia.net:8443/live/12140/71275/850.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sharon TV
 http://7starcloud.com:1935/elimtv/elimtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",MAA TV HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI TV HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Telangana
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76670
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_SD.png" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Maa Gold
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini Movies
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini Movies 1
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini Movies 2
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini TV
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV ABHIRUCHI
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Life
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ABN ANDHRA J
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Telugu ETV UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Telugu Maa Movies UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76668
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Telugu Maa TV UK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76669
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",Sonic Telugu
 http://jiotv.live.cdn.jio.com/Sonic_Telugu/Sonic_Telugu_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",CN HD+ Telugu
@@ -608,18 +652,12 @@ http://jiotv.live.cdn.jio.com/Studio_One/Studio_One_TAB.m3u8
 http://jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-country="IN" tvg-url="" group-title="Telugu",ETV Andhra pradesh
 http://jiotv.live.cdn.jio.com/ETV_Andhra_pradesh/ETV_Andhra_pradesh_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-country="IN" tvg-url="" group-title="Telugu",Maa HD
-http://vcptv.com/vcp.m3u8?id=47975
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-country="IN" tvg-url="" group-title="Telugu",TV 5 News
 http://jiotv.live.cdn.jio.com/TV_5_News/TV_5_News_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-country="IN" tvg-url="" group-title="Telugu",TV9 Telugu News
 http://jiotv.live.cdn.jio.com/TV9_Telugu_News/TV9_Telugu_News_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" tvg-country="IN" tvg-url="" group-title="Telugu",NTV
 http://jiotv.live.cdn.jio.com/NTV/NTV_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" tvg-country="IN" tvg-url="" group-title="Telugu",Maa Movies HD
-http://vcptv.com/vcp.m3u8?id=47974
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_SD.png" tvg-country="IN" tvg-url="" group-title="Telugu",Maa Gold SD
-http://vcptv.com/vcp.m3u8?id=47992
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-country="IN" tvg-url="" group-title="Telugu",ABN Andhra Jyothi
 http://jiotv.live.cdn.jio.com/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" tvg-country="IN" tvg-url="" group-title="Telugu",T News
@@ -686,30 +724,68 @@ http://jiotv.live.cdn.jio.com/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_TA
 http://jiotv.live.cdn.jio.com/Divya_Vani/Divya_Vani_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",Aastha Telugu
 http://jiotv.live.cdn.jio.com/Aastha_Telugu/Aastha_Telugu_TAB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies Action
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies
-http://heather.com/pvc.m3u8?id=juno/starmovies
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76748
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix HD
-http://vcptv.com/vcp.m3u8?id=48142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix
 http://jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies Select HD
-http://vcptv.com/vcp.m3u8?id=47861
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Movies Now HD
-http://vcptv.com/vcp.m3u8?id=48160
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Movies Now HD - 2
-http://heather.com/pvc.m3u8?id=neptune/moviesnowhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" tvg-country="IN" tvg-url="" group-title="English - Movies",MN Plus HD
-http://vcptv.com/vcp.m3u8?id=48163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://blog.digitalsevaa.com/wp-content/uploads/2021/05/fancode-1622142439227.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Fancode Ind vs WI
-https://live.fancode.com/hls/live/2042881/4782english49752ta-di/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports HD1
-http://vcptv.com/vcp.m3u8?id=48106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports HD2
-http://vcptv.com/vcp.m3u8?id=48103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports Select HD1
-http://vcptv.com/vcp.m3u8?id=48110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports Select HD2
-http://vcptv.com/vcp.m3u8?id=48111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",WB HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Ten Action
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76559
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",TEN 1 HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 1
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76561
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 2
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76562
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD3.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 3
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_4.png" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 4
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Eleven Sport Network Asia
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Ten Cricket HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 1 HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 2 HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD3.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 3 HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_4.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 4 HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",TEN Golf HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Ten Sports
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Willow Cricket
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Sony Ten 1 FHD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",SONY SIX HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",SONY TEN2 HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",STAR SPORTS 1 HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",STAR SPORTS 1 HDI HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",STAR SPORTS 2 HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",STAR SPORTS SELECT 1 FHD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",STAR SPORTS SELECT 2 FHD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",D SPORTS VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",SONY TEN1 HD VIP
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76783
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Ten 1 HD
 http://jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Ten 1
@@ -720,8 +796,6 @@ http://jiotv.live.cdn.jio.com/Ten2_HD/Ten2_HD_TAB.m3u8
 http://jiotv.live.cdn.jio.com/Ten_2/Ten_2_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Ten 3
 http://jiotv.live.cdn.jio.com/Ten_3/Ten_3_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Sony Six HD
-http://vcptv.com/vcp.m3u8?id=48154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Sony Six SD
 http://jiotv.live.cdn.jio.com/Six_HD/Six_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Jio Football HD
@@ -738,12 +812,32 @@ http://jiotv.live.cdn.jio.com/Jio_Football_2/Jio_Football_2_TAB.m3u8
 http://jiotv.live.cdn.jio.com/Dsports/Dsports_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Eurosport HD
 http://jiotv.live.cdn.jio.com/Dsports_HD/Dsports_HD_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_First.png" tvg-country="IN" tvg-url="" group-title="English - Sports",Star Sports First
-http://vcptv.com/vcp.m3u8?id=48120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png" tvg-country="IN" tvg-url="" group-title="English - Others",Star World HD
-http://vcptv.com/vcp.m3u8?id=47858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" tvg-country="IN" tvg-url="" group-title="English - Others",Star World Premiere HD
-http://vcptv.com/vcp.m3u8?id=47860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Discovery
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Animal Planet HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76730
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Discovery Kids
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Discovery Science
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Discovery Turbo
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Discovery World HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Infotainment",Travel XP HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",WOW Kidz
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",Nickelodeon
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76718
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",Pogo TV
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",Sonic Nickelodeon
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",Sony YAY
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Entertainment - Children",Nick Jr
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76721
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-country="IN" tvg-url="" group-title="English - Others",Colors Infinity HD
 http://jiotv.live.cdn.jio.com/Colors_Infinity_HD/Colors_Infinity_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" tvg-country="IN" tvg-url="" group-title="English - Others",Comedy Central HD
@@ -864,629 +958,15 @@ http://jiotv.live.cdn.jio.com/CVR_English/CVR_English_TAB.m3u8
 http://jiotv.live.cdn.jio.com/GoodNews_Channel/GoodNews_Channel_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" tvg-country="IN" tvg-url="" group-title="English - Others",Sony BBC Earth SD
 http://jiotv.live.cdn.jio.com/Sony_BBC_Earth_SD/Sony_BBC_Earth_SD_TAB.m3u8
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Jalsha
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76665
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR JALSHA HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76784
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Jalsa Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Jhalsa Movies Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",JALSHA MOVIES HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Bangla Cema
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76664
-#EXTINF:-1,Hungama
-http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862674&extension=ts&play_token=MCb4h1HwOb
-#EXTINF:-1,Disney Hindi
-http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862661&extension=ts&play_token=ZXdmIk7Vcw
-#EXTINF:-1,Super Hungama
-http://4kmedia.watch:8880/play/live.php?mac=00:1A:79:0C:49:2D&stream=862679&extension=ts&play_token=vlbdug9PPd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",WOW Kidz
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Nickelodeon
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76718
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Pogo TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sonic Nickelodeon
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76714
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony YAY
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Nick Jr
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",UTV MOVIES
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76533
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",| Zee Cinema HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76522
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",&pictures HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76493
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Gold
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76498
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Action
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Movies OK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76527
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",LifeOK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76528
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",B4U Movies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76529
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",UTV Bindas
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",&TV FHD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AND PICTURES VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR GOLD FHD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",9X Jhakaas
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76484
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",9XM
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76485
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",9XM Jalwa
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76486
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",9xTashan
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76487
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",B4U Music
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SUN Music
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76489
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Music dia
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76490
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",B4U Plus
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MTV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",And TV HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76494
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Colors TV HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Plus HD US
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76496
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zg TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76497
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Six HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Pix
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Pal
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76501
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SetMax2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76502
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sab TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76503
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Rishtey
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Set Max UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76505
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Sab HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76506
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76507
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Plus UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",UTV Movies ter
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76509
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Colors TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76510
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Colors UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76511
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Rishtey Ce UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Rishtey UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76513
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sab TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76514
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Sab UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony TV Asia UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76517
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76518
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Gold UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Life OK UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76520
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Utsav UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76521
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76523
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zg UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zoom UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony MIX
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Anmol
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Busess
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76534
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Livg
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Zdagi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76536
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ZeeNews
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76537
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Classic
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76538
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Cinema
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76539
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Life OK HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zindagi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76541
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zoom
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76542
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Plus
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76543
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee ETC
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76544
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Livg Foodz 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76545
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MH1 Shradha
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76546
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",News 24
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76547
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Times Now
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76548
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AAJ TAK UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76549
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ABP News UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76550
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",And TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76551
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",NDTV 24x7 UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76552
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AAJ TAK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76553
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",dia TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",NDTV india
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76555
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee News
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76556
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Discovery
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76557
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",lBN 7
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76558
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Ten Action
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76559
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",TEN 1 HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76560
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 1
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76561
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76562
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 3
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76563
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 4
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76564
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Eleven Sport Network Asia
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",HBO
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76566
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Ten Cricket HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76567
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 1 HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76568
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 2 HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 3 HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76570
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Sports 4 HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",TEN Golf HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76572
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Ten Sports
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76573
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Willow Cricket
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Akkal Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76575
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sangat TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76576
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",PTC Chak DE Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76577
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",PTC News Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",PTC Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76579
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sikh Channel Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sanjh TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76581
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",PTC Chakde
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76582
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Punjab TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76583
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",9X Tashan Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76584
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AOne Music Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76585
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AOne Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Britasia Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ChakDE TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Chardiala Time TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Desi Channel Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETC Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jus One TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",JUS Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MH1 News Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76594
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MH1 Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76595
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Punjabi Haryana TV Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76596
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76597
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ChakDE
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76598
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Dabang TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76599
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",DD Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76600
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Desi TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76601
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MH1 Music
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76602
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Media Punjab
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76603
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Manoranjan TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76604
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ARY Digital UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76605
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Britasia TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76606
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",GEO News UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76607
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",GEO TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76608
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",HUM Europe UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76609
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Noor TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Takbeer TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Aamar Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76612
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ABP Ananda Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Asian TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76614
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ATN Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76615
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ATN Music TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76616
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ATN News Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76617
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ATN UK Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76618
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Bangla Vision Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76619
-#EXTINF:-1 group-title="*--- INDIA ---*"http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76620
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Boishakhi Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76621
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",BTV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76622
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",BTV World Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76623
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel 24 Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76624
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel 9 Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76625
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel 99 Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76626
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel I EU Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76627
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel S Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Channel I Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76629
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Colors+ Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76630
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",DBC News Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76631
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",DD Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76632
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Deepto HD Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76633
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Deshe Bideshe TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76634
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",DeshTV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76635
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Dhoom Music Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76636
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Dhoom Music Bangla HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Ekattor TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76638
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Gaan Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76640
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",dependent Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76641
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",iTV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jamuna TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76643
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Maasaranga Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Masranga TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Mohana Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Movie Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Music Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MyTV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",News 24 HD Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",NRB TV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",NTV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76652
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Probashi Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",R Plus News Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Ruposhi Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sangeet Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76656
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SATV Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Somoy Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Tarang Music
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Time Television Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",TV UK Bangla
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Teleugu ETV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Teleugu Maa Movies UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Teleugu Maa TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETV Telangana
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Max UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Movie UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Kairali
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Marathi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Marathi HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Telugu Ditto
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AsiaNet
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Vijay
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76679
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Movies Action
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Dillagi Amrita
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Colors Gujrati
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",AsiaNet Plus
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Kannada Colors UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Maa Gold
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Janam TV 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Gemi Movies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76687
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Polimer TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Movies HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76689
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Talkies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee TV HD US
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76691
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76692
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Tamil
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sun TV HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76694
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Plus HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Gold HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Movies HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony TV HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Movies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Gemi Movies 1
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76700
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Gemi Movies 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76701
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Gemi TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",KTV USA
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76703
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Pravah
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Max 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76705
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya Plus
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76706
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Jaya TV USA
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76707
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Puthiya
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76708
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",RAJ Digital Plus
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76709
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",RAJ Musix
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",RAJ TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76711
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Raj Digital Plus UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Raj TV UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76713
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Santhora TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76715
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Food Food
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Housefull Action
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Manoranjan Movies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Akaal Channel Punjabi
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sangat UK
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76723
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony SAB FHD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76724
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76725
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee Cinema FHD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee TV HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76727
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zee TV FHD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76728
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Max HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Animal Planet HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Big Magic
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Desi Plus HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Discovery Kids
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Discovery Science
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Discovery Turbo
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Discovery World HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76736
-#EXTINF:-1 group-title="*--- INDIA ---*"http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76737
-#EXTINF:-1 group-title="*--- INDIA ---*"http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76738
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Masti TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76739
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Rishtey Ceplex
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",WB HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony MAX 2
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony MAX
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony SAB
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony Ten 1 FHD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony TV
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76746
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sony WAH
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76747
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Movies
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Star Utsav
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Travel XP HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76751
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",WOW Cinema
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Zg
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76754
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",& Flix HD
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SONY SIX HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SONY TEN2 HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",COLORS KANNADA HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR VIJAY HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76759
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ZEE HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SONY SAB FHD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",CEPLEX HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76765
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",COLORS BANGLA HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",COLORS HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",COLORS MARATHI HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR GOLD SELECT HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR PLUS HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR PRAVAH HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR SPORTS 1 HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR SPORTS 1 HDI HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR SPORTS 2 HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR SPORTS SELECT 1 FHD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",STAR SPORTS SELECT 2 FHD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",MAA TV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",GEMI TV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",D SPORTS VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ASIANET HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SONY TEN1 HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SUN MUSIC HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SUN TV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",SURYA TV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",UDAYA TV HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76788
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ZEE MARATHI HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76789
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ZEE TALKIES HD VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ITN TV LK VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",Sri TV LK VIP
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETV ABHIRUCHI
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ETV Life
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="INDIA",ABN ANDHRA J
-http://cine-app.com:8000/mag00:1A:79:00:02:29/sRikUyhfnR/76795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",News 24
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",Times Now
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",AAJ TAK
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76553
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",India TV
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",NDTV india
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="India News",Zee News
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76556
