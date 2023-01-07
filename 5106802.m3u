@@ -1,8 +1,10 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV HD
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://sldhnecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://sldhnecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76759
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN MUSIC HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN MUSIC HD
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76785
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN Music
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76489
@@ -20,12 +22,10 @@ http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76688
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76689
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Zee Tamil
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Sun TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Sun TV
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76694
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Movies
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV USA
-http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76703
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Max 2
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76705
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Jaya Plus
@@ -724,16 +724,28 @@ http://jiotv.live.cdn.jio.com/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti_TA
 http://jiotv.live.cdn.jio.com/Divya_Vani/Divya_Vani_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu",Aastha Telugu
 http://jiotv.live.cdn.jio.com/Aastha_Telugu/Aastha_Telugu_TAB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO
-http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies HD
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76748
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies Action
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies HD
-http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Star Movies
-http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76748
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" tvg-country="IN" tvg-url="" group-title="English - Movies",Sony Pix HD
 http://jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_TAB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO 2
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO 2 West
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",HBO Plus
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",Showtime Extreme
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166290
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",Showtime 2
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",Thrillermax
+http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/166327
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",WB HD
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/QWlLjLPmDf/76741
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Ten Action
