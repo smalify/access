@@ -45,7 +45,7 @@ http://cine-app.com:8000/mag00:1A:79:8E:30:35/2dcvwtgf74/76712
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Raj TV UK
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/2dcvwtgf74/76713
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",JIO Token Update
-https://snxtapi.000webhostapp.com/JIO-LOGIN.php
+http://150.230.132.12/JIO-LOGIN.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Jaya TV HD
 http://jiotv.live.cdn.jio.com/Jaya_TV_HD/Jaya_TV_HD_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Puthu Yugam
