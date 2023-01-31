@@ -77,7 +77,7 @@ http://jiotv.live.cdn.jio.com/Raj_News_24x7/Raj_News_24x7_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",MK Music
 http://jiotv.live.cdn.jio.com/MK_Music/MK_Music_TAB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",History TV18 HD Tamil
-https://jiotvmblive.cdn.jio.com/History_18_Tamil/History_18_Tamil.m3u8?__hdnea__=st=1675156216~exp=1675159816~acl=/History_18_Tamil/*~hmac=ef203403f2231d3096bd8fa2f0193d5a96039c2f7119cb63d103a765e03491c4
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=579
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Sony BBC Earth HD Tamil
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Animal Planet HD Tamil
