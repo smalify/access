@@ -74,14 +74,14 @@ http://cine-app.com:8000/mag00:1A:79:8E:30:35/2dcvwtgf74/76759
 http://vcpsnxt.com/vcp.m3u8?id=26566
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Sun Music HD (SUNNXT)
 http://vcpsnxt.com/vcp.m3u8?id=9013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",History TV18 HD Tamil
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Kalaignar TV
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=1209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Raj TV
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=707
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Puthu Yugam
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=824
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",MK TV
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=847
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Raj News 24x7
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=767
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Colors Tamil HD
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=429
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Colors Tamil
@@ -92,22 +92,22 @@ https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=845
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Peppers TV
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=796
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Zee Tamil
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=628
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Zee Thirai
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=2256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",History TV18 HD Tamil
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=579
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Sony BBC Earth HD Tamil
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=853
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Animal Planet HD Tamil
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=1219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Discovery Kids Tamil
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=550
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Kalaignar TV
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=1209
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Raj TV
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Zee Tamil
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=628
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Zee Thirai
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=2256
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Puthiya Thalimurai
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=677
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Raj News 24x7
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=767
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Vasanth TV
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=727
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" tvg-country="IN" tvg-url="" group-title="Tamil - JIO Channels",Jaya Max
@@ -702,10 +702,6 @@ http://cine-app.com:8000/mag00:1A:79:8E:30:35/2dcvwtgf74/76668
 http://cine-app.com:8000/mag00:1A:79:8E:30:35/2dcvwtgf74/76669
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",TV9 Telugu News
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=618
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Zee Telugu
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=638
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Zee Cinemalu
-https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=413
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",ETV Telugu
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=629
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Sakshi tv
@@ -740,6 +736,10 @@ https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=934
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",ETV Plus
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Zee Telugu
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=638
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Zee Cinemalu
+https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=413
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",DD Saptagiri
 https://jiotvapi.media.jio.com/playback/apis/v1/geturl?langId=6&channelId=706
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" tvg-country="IN" tvg-url="" group-title="Telugu - JIO Channels",Vissa TV
