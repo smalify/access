@@ -846,8 +846,8 @@ http://cine-app.com:8000/mag00:1A:79:00:02:4B/dSDE8XcKLn/166311
 http://cine-app.com:8000/mag00:1A:79:00:02:4B/dSDE8XcKLn/166327
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Movies",WB HD
 http://cine-app.com:8000/mag00:1A:79:00:02:4B/dSDE8XcKLn/76741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 1 - Tamil HD - MP2T
-http://vcpiptv.com/vcp.mp2t?id=155873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Star Sports 1 - Tamil HD
+http://vcpiptv.com/vcp.m3u8?id=155873
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",Ten Action
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:02:C9:FA&stream=76559&extension=ts&play_token=hT1XlWWYGa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-country="IN" tvg-url="" group-title="English - Sports - IPTV",TEN 1 HD
