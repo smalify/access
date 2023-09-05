@@ -1,19 +1,37 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",COLOR TAMIL HD
-http://vcpiptv.com/vcp.ts?id=57
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV HD
+http://vcpsnxt.com/vcp.m3u8?id=14020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun TV SD
+http://vcpsnxt.com/vcp.m3u8?id=9016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV HD
+http://vcpsnxt.com/vcp.m3u8?id=26566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/K_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",KTV SD
+http://vcpsnxt.com/vcp.m3u8?id=32138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music HD
+http://vcpsnxt.com/vcp.m3u8?id=9013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Music SD
+http://vcpsnxt.com/vcp.m3u8?id=9025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun Life
+http://vcpsnxt.com/vcp.m3u8?id=26569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Sun News
+http://vcpsnxt.com/vcp.m3u8?id=38926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Adithya TV
+http://vcpsnxt.com/vcp.m3u8?id=9023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - Sun Channels",Chutti Tv
+http://vcpsnxt.com/vcp.m3u8?id=26567
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV HD
+http://vcpiptv.com/vcp.ts?id=158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV HD
+http://vcpiptv.com/vcp.ts?id=160
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD
 http://vcpiptv.com/vcp.ts?id=157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV HD
-http://vcpiptv.com/vcp.ts?id=158
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN MUSIC HD
-http://vcpiptv.com/vcp.ts?id=159
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV HD
-http://vcpiptv.com/vcp.ts?id=160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR SPORTS TAMIL 1
+http://vcpiptv.com/vcp.ts?id=199492
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",JAYA TV HD
 http://vcpiptv.com/vcp.ts?id=188
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Logo_of_Angel_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ANGEL TV HD
-http://vcpiptv.com/vcp.ts?id=189
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels", SONY BBC EARTH HD
-http://vcpiptv.com/vcp.ts?id=222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN MUSIC HD
+http://vcpiptv.com/vcp.ts?id=159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",COLOR TAMIL HD
+http://vcpiptv.com/vcp.ts?id=57
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ZEE TAMIL
 http://vcpiptv.com/vcp.ts?id=225
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",POLIMER NEWS
@@ -42,7 +60,7 @@ http://vcpiptv.com/vcp.ts?id=1624
 http://vcpiptv.com/vcp.ts?id=1627
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/517/910/png-transparent-captain-tv-television-channel-captain-news-television-show-cbc-television-television-text-trademark.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",CAPTAIN NEWS HD
 http://vcpiptv.com/vcp.ts?id=1630
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Comedy-new1-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",TAMIL : IBC COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC-Comedy-new1-black.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",IBC COMEDY
 http://vcpiptv.com/vcp.ts?id=1633
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",VIJAY TV HD
 http://vcpiptv.com/vcp.ts?id=1634
@@ -50,6 +68,10 @@ http://vcpiptv.com/vcp.ts?id=1634
 http://vcpiptv.com/vcp.ts?id=5876
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",AASTHA TAMIL HD
 http://vcpiptv.com/vcp.ts?id=5877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Logo_of_Angel_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ANGEL TV HD
+http://vcpiptv.com/vcp.ts?id=189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels", SONY BBC EARTH HD
+http://vcpiptv.com/vcp.ts?id=222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://banner2.cleanpng.com/20180525/fjr/kisspng-angel-tv-television-channel-high-definition-televi-videocon-d2h-5b08ada3f0f428.382478911527295395987.jpg" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ANGEL TV HD
 http://vcpiptv.com/vcp.ts?id=5881
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ANGEL TV HD
@@ -70,17 +92,17 @@ http://vcpiptv.com/vcp.ts?id=5890
 http://vcpiptv.com/vcp.ts?id=5891
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/IBC-Music_new1.jpg" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",IBC MUSIC HD
 http://vcpiptv.com/vcp.ts?id=5892
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",TAMIL:IBC TAMIL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",IBC TAMIL HD
 http://vcpiptv.com/vcp.ts?id=5894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/2d/2da9869ee753c8bbaf5e5b7923d96c67.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",TAMIL:JAYA TV
 http://vcpiptv.com/vcp.ts?id=5895
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KAIRALI NEWS HD
 http://vcpiptv.com/vcp.ts?id=5896
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil:Kalaignar TV News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Kalaignar TV News
 http://vcpiptv.com/vcp.ts?id=5897
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/K:TV:HD.jpg/revision/latest/scale-to-width-down/340?cb=20180317144717" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil:KTV FHD (usa)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/K:TV:HD.jpg/revision/latest/scale-to-width-down/340?cb=20180317144717" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV FHD (USA)
 http://vcpiptv.com/vcp.ts?id=5898
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/K:TV:HD.jpg/revision/latest/scale-to-width-down/340?cb=20180317144717" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil:KTV FHD (IND)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/K:TV:HD.jpg/revision/latest/scale-to-width-down/340?cb=20180317144717" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV FHD (IND)
 http://vcpiptv.com/vcp.ts?id=5899
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV HD
 http://vcpiptv.com/vcp.ts?id=5900
@@ -100,7 +122,7 @@ http://vcpiptv.com/vcp.ts?id=5909
 http://vcpiptv.com/vcp.ts?id=5910
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",POLIMER NEWS
 http://vcpiptv.com/vcp.ts?id=5911
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Puthuyugam_TV.gif" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",PUTHU YUGAmM TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Puthuyugam_TV.gif" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",PUTHU YUGAM TV
 http://vcpiptv.com/vcp.ts?id=5912
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",RAJ TV HD
 http://vcpiptv.com/vcp.ts?id=5913
@@ -108,7 +130,7 @@ http://vcpiptv.com/vcp.ts?id=5913
 http://vcpiptv.com/vcp.ts?id=5915
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY INDIA FHD
 http://vcpiptv.com/vcp.ts?id=5916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD (Vip)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",STAR VIJAY HD (VIP)
 http://vcpiptv.com/vcp.ts?id=5917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN LIFE HD
 http://vcpiptv.com/vcp.ts?id=5918
@@ -142,33 +164,33 @@ http://vcpiptv.com/vcp.ts?id=9020
 http://vcpiptv.com/vcp.ts?id=9022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",MALAI MURASU TV
 http://vcpiptv.com/vcp.ts?id=9023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: RAJ MUSIX TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",RAJ MUSIX TAMIL
 http://vcpiptv.com/vcp.ts?id=9024
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: VIJAY TV (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",VIJAY TV (FHD)
 http://vcpiptv.com/vcp.ts?id=9969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/07/Colors_Tamil_HD_1.jpg&w=620&h=350&zc=1&q=100" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: Colors Tamil (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/07/Colors_Tamil_HD_1.jpg&w=620&h=350&zc=1&q=100" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Colors Tamil (FHD)
 http://vcpiptv.com/vcp.ts?id=9970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: Zee Tamil (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Zee Tamil (FHD)
 http://vcpiptv.com/vcp.ts?id=9971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",TRAVEL XP
 http://vcpiptv.com/vcp.ts?id=9972
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: KTV (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",KTV (FHD)
 http://vcpiptv.com/vcp.ts?id=23318
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: SUNTV (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUNTV (FHD)
 http://vcpiptv.com/vcp.ts?id=23320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWh7nKqPNpFt4Ykh-pzPQiCvEzTitpRbkLOg&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: SUN-MUSIC (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWh7nKqPNpFt4Ykh-pzPQiCvEzTitpRbkLOg&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN-MUSIC (FHD)
 http://vcpiptv.com/vcp.ts?id=23321
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest?cb=20200217033512" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",VIJAY MUSIC
 http://vcpiptv.com/vcp.ts?id=23869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: D TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",D TAMIL
 http://vcpiptv.com/vcp.ts?id=26162
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: MEGA 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",MEGA 24
 http://vcpiptv.com/vcp.ts?id=26163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Mega_Musiq.jpeg/revision/latest/scale-to-width-down/250?cb=20191224093201" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: MEGA MUSIQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Mega_Musiq.jpeg/revision/latest/scale-to-width-down/250?cb=20191224093201" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",MEGA MUSIQ
 http://vcpiptv.com/vcp.ts?id=26164
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest/smart/width/250/height/250?cb=20191224121230" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: ISAI ARUVI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest/smart/width/250/height/250?cb=20191224121230" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ISAI ARUVI
 http://vcpiptv.com/vcp.ts?id=26165
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: MEGA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",MEGA TV
 http://vcpiptv.com/vcp.ts?id=28141
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",MURASU TV
 http://vcpiptv.com/vcp.ts?id=29086
@@ -182,17 +204,909 @@ http://vcpiptv.com/vcp.ts?id=37452
 http://vcpiptv.com/vcp.ts?id=46743
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",SUN TV USA
 http://vcpiptv.com/vcp.ts?id=76343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: Chutti Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Chutti Tv
 http://vcpiptv.com/vcp.ts?id=85931
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil: THANTHI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",THANTHI TV
 http://vcpiptv.com/vcp.ts?id=111034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",UK: Vijay Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Vijay Tv
 http://vcpiptv.com/vcp.ts?id=142956
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Zee Thirai
 http://vcpiptv.com/vcp.ts?id=144636
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Tamil : Sri Sankara TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",Sri Sankara TV
 http://vcpiptv.com/vcp.ts?id=153205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-tamil-24x7-in.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",News Tamil 24x7
 http://vcpiptv.com/vcp.ts?id=160589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Ftmf1oX.png" tvg-country="IN" tvg-url="" group-title="Tamil - IPTV Channels",ZEE THIRAI HD
 http://vcpiptv.com/vcp.ts?id=181966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: SUNTV (4K).
+http://vcpiptv.com/vcp.ts?id=98899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: KTV (4K).
+http://vcpiptv.com/vcp.ts?id=98893
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: VIJAY TV (4K).
+http://vcpiptv.com/vcp.ts?id=98898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: Zee Tamil (4K).
+http://vcpiptv.com/vcp.ts?id=98897
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/07/Colors_Tamil_HD_1.jpg&w=620&h=350&zc=1&q=100" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: Colors Tamil (4K).
+http://vcpiptv.com/vcp.ts?id=98911
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWh7nKqPNpFt4Ykh-pzPQiCvEzTitpRbkLOg&usqp=CAU" tvg-country="IN" tvg-url="" group-title="4K Tamil - IPTV Channels",Tamil: SUN-MUSIC (4K).
+http://vcpiptv.com/vcp.ts?id=98900
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil - Local Channels",Tamil TV
+http://5.39.221.140/tamil/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil - Local Channels",Yupp Thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil - Local Channels",Abhinaya Tv
+http://singamcloud.in:1935/purpletv/purpletv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="Tamil - Local Channels",7Star TV 
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sana hd0000.png" group-title="Tamil - Local Channels",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/3-tamil.png" group-title="Tamil - Local Channels", 3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jnjnn-removebg-preview.png" group-title="Tamil - Local Channels",BlueMoon TV
+http://stream.blackmoon.in:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="Tamil - Local Channels",7Star TV(Test)
+http://7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/TAMIL TIMES RIGHT.png" group-title="Tamil - Local Channels",Tamil Times
+http://streamingbox.7starcloud.com:1935/jawahartv/tamiltimes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/CTN Salem.PNG" group-title="Tamil - Local Channels",CTN
+https://streamspace.live/hls/ctn/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/SAKTHI LOGO PNG NEW_00019.png" group-title="Tamil - Local Channels",Sakthi Tv
+http://media.7starcloud.com:1935/live/aadhavantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://14.102.101.98/documents/logo.png" group-title="Tamil - Local Channels",CTN(Coonoor)
+http://stream.blackmoon.in:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/news.jpg" group-title="Tamil - Local Channels",Kalvi TV
+http://7starcloud.com:1935/live/kalvich/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Ammachannel_Logo 12_00026.png" group-title="Tamil - Local Channels",Amma Channel
+http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="Tamil - Local Channels",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abcmedias.com/ACN MUSIC LOGO_V2_00000.png" group-title="Tamil - Local Channels",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/B_ARASAN TV.png" group-title="Tamil - Local Channels",Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" group-title="Tamil - Local Channels",Sathiyam News
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/LOGO copy01-04-18.png" group-title="Tamil - Local Channels",DCN TV
+http://7starcloud.com:1935/dcntv/dcnlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Aaryaa Premiere Logo in png_00000_00000.png" group-title="Tamil - Local Channels",Aarya Premiere
+http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="Tamil - Local Channels",Polimer
+https://load.airtel.tv/polimertv/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png" group-title="Tamil - Local Channels",Mk TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg" group-title="Tamil - Local Channels",Mk Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg" group-title="Tamil - Local Channels",Mk Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/vani.png" group-title="Tamil - Local Channels",Vani TV HD
+http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/prakalya.png" group-title="Tamil - Local Channels",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/e4u8sAHPxFvMbjkzrOx0JI_Euzmlb_bk2FM73a94m2HKe6NmsVcCs_AyWuRDbO5no8Qm=s180-rw" group-title="Tamil - Local Channels",Nandhanna TV
+rtmp://media.7starcloud.com:1935/nandhanna/nandhannatv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/v.png" group-title="Tamil - Local Channels",Vaanavil Musiq
+rtmp://media.7starcloud.com:1935/vaanavilmusic/livestreaming
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/JAWAHAR CHANNEL LOGO BOX.png" group-title="Tamil - Local Channels",Jawahar Channel
+rtmp://streamingbox.7starcloud.com:1935/jawahartv/streamingbox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/starten.png" group-title="Tamil - Local Channels",Starten TV
+rtmp://media.7starcloud.com:1935/starten/startentv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/4AULRjF8JRbZ3w2wb2sePbazBWrotBRze5OyLpvgaxxtT-H_v_vip7PpGjw_f-N4tQ" group-title="Tamil - Local Channels",Deepam TV
+http://deepamtv.7starcloud.com:1935/live/deepam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jy.png" group-title="Tamil - Local Channels",Jayaam TV
+http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/spice tv final logo.png" group-title="Tamil - Local Channels",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sr musix logo.png" group-title="Tamil - Local Channels",SR Muisx
+http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/SS_logo (1).png" group-title="Tamil - Local Channels",SS TV
+http://7starcloud.com:1935/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/babatv.png" group-title="Tamil - Local Channels",Sri Baba Tv
+rtmp://95.216.226.165/babatv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://erodercntv.com/wp-content/themes/rcn_theme/images/logo.png" group-title="Tamil - Local Channels",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="Tamil - Local Channels",Sri Krishna TV
+rtmp://media.7starcloud.com:1935/erodekrishnatv/livestream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Mac Size Photos copy.jpg" group-title="Tamil - Local Channels",Arunai TV
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/MSN1 (1).png" group-title="Tamil - Local Channels",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="Tamil - Local Channels",Sri Krishna TV(T.Kode)
+rtmp://7starcloud.com:1935/lotustv/lotustv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/OMTV LOGO copy.png" group-title="Tamil - Local Channels",OM Tv(Omalur)
+http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/like.png" group-title="Tamil - Local Channels",Like TV
+http://liketv.7starcloud.com:1935/live/liketv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/ark.jpg" group-title="Tamil - Local Channels",ARK TV
+http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/unnamed.png" group-title="Tamil - Local Channels",Velur TV
+http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vanaviltv.in/images/new.png" group-title="Tamil - Local Channels",Vaanavil Plus
+http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/vnl.png" group-title="Tamil - Local Channels",Vanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abcmedias.com/siluvai.png" group-title="Tamil - Local Channels",Siluvai TV
+http://media.7starcloud.com:1935/siluvaitv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/vj.png" group-title="Tamil - Local Channels",Thalapathy TV
+http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/mytv.png" group-title="Tamil - Local Channels",MY TV
+http://7starcloud.com:1935/mytv/mytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://haritv.com/images/logo.png" group-title="Tamil - Local Channels",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/aarishvfx_00082.png" group-title="Tamil - Local Channels",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/Anuman TV.png" group-title="Tamil - Local Channels",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/01_00009.png" group-title="Tamil - Local Channels",Jeyson TV
+http://7starcloud.com:1935/jeysontv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/01_00009.png" group-title="Tamil - Local Channels",JJ Max
+http://media.7starcloud.com:1935/jeysontv/jjmax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/RAINBOW TV  HD.png" group-title="Tamil - Local Channels",Rainbow TV
+http://7starcloud.com:1935/rainbowtv/liverainbowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/gta.jpg" group-title="Tamil - Local Channels",GTA Tamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/aarya.png" group-title="Tamil - Local Channels",Aaryaa TV  
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/Aram-tv (1).png" group-title="Tamil - Local Channels",Aram TV
+http://7starcloud.com:1935/aone/aonetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Webp.net-resizeimage (9).jpg" group-title="Tamil - Local Channels",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/arram kumarapalayam.PNG" group-title="Tamil - Local Channels",Arram TV 
+http://7starcloud.com:1935/arram/arramtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/viRVMKh.png" group-title="Tamil - Local Channels",Sangamam TV
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/SD media logo 512x512.png" group-title="Tamil - Local Channels",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Comp 1_00432.png" group-title="Tamil - Local Channels",Kavin Tv
+http://media.7starcloud.com:1935/kavintv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Anandha 4k_00031.png" group-title="Tamil - Local Channels",Anandha Tv
+http://media.7starcloud.com:1935/anandhatv/anandhatvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/2 box copy131.png" group-title="Tamil - Local Channels",Kavai TV
+http://media.7starcloud.com:1935/anandhatv/kavaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/nivi.jpg" group-title="Tamil - Local Channels",Nivi TV
+rtmp://media.7starcloud.com:1935/live/nivitvlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Wathanam Tv India Logo 2.jpg" group-title="Tamil - Local Channels",Wathanam TV INDIA
+http://95.216.167.183:5080/LiveApp/streams/101847725599415282838105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/faa81f26-b014-46af-946a-4dc4864172ca.jpg" group-title="Tamil - Local Channels",Malligai TV
+http://jaaltv.livebox.co.in/malligaihls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/aasai.jpg" group-title="Tamil - Local Channels",Aasai TV
+rtmp://osaitv.livebox.co.in:1935/osai/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil - Local Channels",Abigail TV
+http://7starcloud.com:1935/abigaltv/abigaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=s180-rw" group-title="Tamil - Local Channels",Vaigai Tv
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/DDPodhigaiLogo.jpg" group-title="Tamil - Local Channels",DD Podhigai 
+https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9S3mxCR2IBpOqI5PKo4B2S67FdoO9PS00YA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Tamil - Local Channels",Tamil Entertainment
+https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9S3mxCR2IBpOqI5PKo4B2S67FdoO9PS00YA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Tamil - Local Channels",Tamil Entertainment 1
+http://23.237.104.26:8080/SW_Movie_01/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9S3mxCR2IBpOqI5PKo4B2S67FdoO9PS00YA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Tamil - Local Channels",Tamil Entertainment 2
+http://23.237.104.26:8080/SW_movie_HD/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9S3mxCR2IBpOqI5PKo4B2S67FdoO9PS00YA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Tamil - Local Channels",Tamil Entertainment 3
+http://23.237.104.26:8080/SW_Movie_02/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://madhimugam.com/wp-content/uploads/2020/02/MDM-LOGO-2.gif" group-title="Tamil - Local Channels",Madhimugam Tv
+http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/isai-aruvi-black.png" group-title="Tamil - Local Channels",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/071023197s-music-tv.png" group-title="Tamil - Local Channels",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pepperstv.com/support/images/nwlogo.jpg" group-title="Tamil - Local Channels",Peppers TV
+http://live.wmncdn.net/peppers/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/R6LSLgDknOXv3cnaT5KiMGbxJClVt3d5BbLWD7n4e3v9pUPu-m27JXediqWMKSk7JA=s180-rw" group-title="Tamil - Local Channels",Tunes 6 Music
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vendharmedia.in/images/logo.png" group-title="Tamil - Local Channels",Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/puthuyugamtv-black.png" group-title="Tamil - Local Channels",Pudhuyugam TV
+https://load.airtel.tv/puthuyugam/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download.png" group-title="Tamil - Local Channels",Aaho Music
+https://v.aaho.tv/live/aahomusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctamil/ibctamil_1.png" group-title="Tamil - Local Channels",IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png" group-title="Tamil - Local Channels",Murasu TV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png" group-title="Tamil - Local Channels",Siripooli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/chithiram-tv-black.png" group-title="Tamil - Local Channels",Chithiram TV
+https://m-c049-j2apps.s.llnwi.net/hls/0614.Chithiram.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IAl81AV.png" group-title="Tamil - Local Channels",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png" group-title="Tamil - Local Channels",IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids_mid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="Tamil - Local Channels",IBC COMEDY
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.polimernews.com/assets/images/publisher-new.png" group-title="Tamil - Local Channels",Polimer News 
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.newsj.tv/assets/templates/ts_news247/images/presets/preset1/logo.png" group-title="Tamil - Local Channels",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="Tamil - Local Channels",Thanthi TV 
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/NB.png" group-title="Tamil - Local Channels",News18 Tamilnadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/1yes.jpg" group-title="Tamil - Local Channels",1 Yes News
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="Tamil - Local Channels",MalaiMurasu News 
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news7tamil-black.png" group-title="Tamil - Local Channels",News7 Tamil 
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="Tamil - Local Channels",Puthiyathalaimurai 
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lotusnews.tv/img/logo.png" group-title="Tamil - Local Channels",Lotus News
+http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/seithigal-tv-black.png" group-title="Tamil - Local Channels",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/captain-news-black.png" group-title="Tamil - Local Channels",Captain News
+https://watchindia.net:8443/live/68653/13548/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Tamil - Local Channels",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imayamtv.com/images/logo.png" group-title="Tamil - Local Channels",Imayam TV
+https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="Tamil - Local Channels",Kalaignar TV 
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/SVwFGplDTLgFPzBocR97U_E_abe1oNbLBuwdFaxdyBkBC8l82X7bURogPzhn4W_yS3ER=w412-h220-rw" group-title="Tamil - Local Channels",Makkal TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="CaptainTV.in" tvg-name="" tvg-logo="http://captainmedia.in/media/images/logo.png" group-title="Tamil - Local Channels",Captain TV
+https://watchindia.net:8443/live/68653/13548/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/dheerantv-black.png" group-title="Tamil - Local Channels",Dheeran Tv
+https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://moontvtamil.in/wp-content/uploads/2019/02/moon-tv1.jpg" group-title="Tamil - Local Channels",Moon TV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.meenakshitv.in/images/logo.png" group-title="Tamil - Local Channels",Meenakshi TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tamiltodaytv.com/wp-content/uploads/2020/08/logo-tamil-today.png" group-title="Tamil - Local Channels",Tamil Today TV
+https://www.bizcoms.co.uk:1443/tamiltoday/smil:tamiltoday.smil/chunklist_w2008174881_b128000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vasanth.tv/wp-content/uploads/2018/07/VASANTH-TV-LOGO-FINAL-1.png" group-title="Tamil - Local Channels",Vasanth TV
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w1222262888.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" group-title="Tamil - Local Channels",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png" group-title="Tamil - Local Channels",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png" group-title="Tamil - Local Channels",IBC Tamil(Canada)
+https://ibctamilcanada-origin.ibctamil.com/transcode/ibccanada_mid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/shakthi-tv-white.png" group-title="Tamil - Local Channels",Sakthi TV
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/8a/e9/3d/8ae93da24c1ce2546ad48991a4df5f4b.png" group-title="Tamil - Local Channels",DEEPAM TV(London)
+http://95.217.218.87/deepamtvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/a/AGF-l781XdCxT8bmMngUic0E3kNB5jmPvxMHsGOxAA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Tamil - Local Channels",TVI HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download.jpg" group-title="Tamil - Local Channels",Capital Tharisanam
+http://185.180.12.42/mylive/capital/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png" group-title="Tamil - Local Channels",Aus Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Vasantham2008.svg/revision/latest/scale-to-width-down/300?cb=20190810160718" group-title="Tamil - Local Channels",Vasantham TV(Singapore)
+https://tglmp03.akamaized.net/out/v1/230bc7050839446b87c86268df536ab6/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png" group-title="Tamil - Local Channels",Adhavan TV
+http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://eettv.com/wp-content/uploads/2020/02/logo-5.png" group-title="Tamil - Local Channels",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/120537591455517270-56c16e5608bd2.png" group-title="Tamil - Local Channels",Santhora(Short Film)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Samsung_Logos_1845/Source/13064/TamilVision.png" group-title="Tamil - Local Channels",TVI SD
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iwatchtet.tv/wp-content/uploads/2020/04/cropped-logo.png" group-title="Tamil - Local Channels",TET 
+http://206.47.41.166:8080/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download.jpg" group-title="Tamil - Local Channels",Capital TV
+http://185.180.12.42/mylive/capitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="Tamil - Local Channels",Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.akaramtv.com/images/AKARAMMIX.png" group-title="Tamil - Local Channels",Akaram Mix
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/120537591455517270-56c16e5608bd2.png" group-title="Tamil - Local Channels",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png" group-title="Tamil - Local Channels",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.live/wp-content/uploads/2019/10/ttntamil.png" group-title="Tamil - Local Channels",TTN TV
+https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/pak.png" group-title="Tamil - Local Channels",Pakalavan TV
+http://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png" group-title="Tamil - Local Channels",Analai Express Music
+https://live.streamjo.com/sarastv/sarastv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sooriyan.tv/uploads/logo/logo_1.png" group-title="Tamil - Local Channels",Sooriyan TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/chunklist_w994991617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/dharshan.png" group-title="Tamil - Local Channels",Dharshan 4K TV
+http://7starcloud.com:1935/dharshan/dharshantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/svbc-black.png" group-title="Tamil - Local Channels",TTD TAMIL TV(SVBC)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tamil/ac206e74d75b285755ee4924df87d951.sdp1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivamtv.com/images/sivammtv.png" group-title="Tamil - Local Channels",Sivan Tv
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png" group-title="Tamil - Local Channels",IBC BAKTHI
+https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi_mid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png" group-title="Tamil - Local Channels",STS TV
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://swasthiktv.com/wp-content/uploads/2019/08/logo-final-1.png" group-title="Tamil - Local Channels",Swasthitv TV
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/WhatsApp Image 2020-08-03 at 4.00.25 PM (1).jpeg" group-title="Tamil - Local Channels",Deepajothi
+http://media.7starcloud.com:1935/deepajothi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Srisankara-tv-logo.png" group-title="Tamil - Local Channels",Sankara TV
+http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Sharon LOGOAsset 1.png" group-title="Tamil - Local Channels",Sharon TV
+http://7starcloud.com:1935/elimtv/elimtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="Tamil - Local Channels",Angel TV
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/tamilan.png" group-title="Tamil - Local Channels",Tamilan TV
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png" group-title="Tamil - Local Channels",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1901270032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png" group-title="Tamil - Local Channels",IBC Siluvai
+https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai_std.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/2N9fLnYqenIV03igfzV00ZstC6GOKuLJpKynhqMEL_DksG4vTzRrJZvY2gJ9FKVE7Q" group-title="Tamil - Local Channels",Nambikkai TV
+http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/astv.png" group-title="Tamil - Local Channels",Asirvatham
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w517735769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/e7265a_c071d1813a5e466b977a8f1da8016a09~mv2.png/v1/fill/w_80,h_35,al_c,q_85,usm_0.66_1.00_0.01/e7265a_c071d1813a5e466b977a8f1da8016a09~mv2.webp" group-title="Tamil - Local Channels",Lord tv
+https://5e7cb6c44cc8c.streamlock.net/lordtvministries/mp4:lordtvministries/chunklist_w412749526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/download__3_-removebg-preview.png" group-title="Tamil - Local Channels",DD Sports
+https://m-c048-j2apps.s.llnwi.net/hls/0179.DDSports.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",7Star TV
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43856.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",3Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/captain.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG68898.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",BlueMoon TV
+http://bmlive.net:8000/bms/bmtv/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39297.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG82595.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",City TV
+http://hdserver.7starcloud.com:1935/city/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG5530.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer Channel
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG63230.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Starten TV
+http://media.7starcloud.com:1935/starten/startentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40848.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jawahar TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85067.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jayaam TV
+http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58354.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jawahar Channel
+http://139.99.41.37:1935/jawaharchannel/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG17727.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Salem Merchi
+http://7starcloud.com:1935/salem/mirchi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29005.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vani TV HD
+http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG88913.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Kalvi Tv
+http://7starcloud.com:1935/live/kalvii/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43207.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN Cinema
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG65967.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6199.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Thirai TV
+http://139.99.41.37:1935/thirai/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35756.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Max TV
+http://139.99.41.37:1935/dream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG78014.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Arasan TV
+http://ammacable.com:1935/acn/arasantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG10684.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer TV
+https://watchindia.net:8443/live/12140/71275/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36010.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New", MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3523.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG97465.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39940.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",UTV(Trichy)
+http://7starcloud.com:1935/utv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG15218.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sky Gain TV
+https://stream.skygaintv.com/LiveApp/streams/841444019223041560075808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74610.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nandhanna TV
+http://media.7starcloud.com:1935/nandhanna/nandhannatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG11646.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG56025.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",OM TV(Omalur)
+http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39299.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Spice TV
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ACN TV
+https://stream1.playbox.co.in:1936/babatv/babatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",SR MUSIX
+http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG66916.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Isai Saral
+http://bmlive.net:8000/SRmusix/srmusix/bms.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG26501.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",SS TV
+http://7starcloud.com:1935/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG47835.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sri Krishna TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18927.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",RCN TV
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG96815.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nila TV
+http://hdserver.7starcloud.com:1935/nilatv/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53779.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MSN TV
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74398.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sri Krishna TV(T.kode)
+rtmp://7starcloud.com:1935/lotustv/lotustv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG85725.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Arunai Tv
+http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61473.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",ARK TV
+http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81454.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News Plus TV
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG19021.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Velur TV
+http://velurtv.7starcloud.com:1935/velurtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG94651.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Siluvai TV
+http://hdserver.7starcloud.com:1935/siluvaitv/siluvaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG36575.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG94507.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MY TV
+http://7starcloud.com:1935/mytv/mytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2321.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Rainbow TV
+http://7starcloud.com:1935/rainbowtv/liverainbowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG31950.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Hari TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6334.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaanavil Plus
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Aarya TV
+http://7starcloud.com:1935/aarya/aaryatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG51065.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaanavil Plus
+http://51.75.95.11:5080/LiveApp/streams/779115238213688180372781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG23290.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jeyson TV
+http://7starcloud.com:1935/live/jeysontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2227.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Bass TV
+http://hdserver.7starcloud.com:1935/basstv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG86627.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Nivi TV
+http://media.7starcloud.com:1935/live/nivitvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG40454.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",JJ Max
+http://hdserver.7starcloud.com:1935/jjmax/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",JPL TV
+http://51.79.158.179:1935/jpltv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",TDN
+http://139.99.41.37:1935/tdn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG93380.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Surya TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG54067.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Imayam TV
+https://itvorigin.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57908.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MM TV
+http://hdserver.7starcloud.com:1935/mmtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG3887.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vaigai TV
+http://account9.livebox.co.in/vaigaitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG67748.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",7sMusic
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98289.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Vendhar TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG61021.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News 18 Tamilnadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG69759.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",MaalaiMurasu TV
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG87377.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News 7 Tamil
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG14345.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Puthiya Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG39858.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Polimer News
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG2121.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG81475.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58239.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sathiyam TV
+http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG74090.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Lotus News
+https://jk3lzaj4dw79-hls-live.5centscdn.com/stream/508c75c8507a2ae5223dfd2faeb98122.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG23229.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG78365.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Captain News
+https://watchindia.net:8443/live/12140/71275/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG72513.png" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Jaya Plus
+https://watchindia.net:8443/live/12140/71275/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/" tvg-country="IN" tvg-url="" group-title="Tamil - Local Channels New",Sharon TV
+http://7starcloud.com:1935/elimtv/elimtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",24/7: Globe_Tamil_Bloclbuster
+http://vcpiptv.com/vcp.ts?id=121315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",24/7: Tamil Movies Vol_1
+http://vcpiptv.com/vcp.ts?id=121330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",24/7: Tamil_Collection_Vol 2
+http://vcpiptv.com/vcp.ts?id=121335
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",24/7: Tamil_Collection_Vol 3
+http://vcpiptv.com/vcp.ts?id=121336
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",24/7: Tamil_2022_2021_Collection_vol_1
+http://vcpiptv.com/vcp.ts?id=121372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",MOVIES 1 HD
+http://vcpiptv.com/vcp.ts?id=136398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",MOVIES 2 HD
+http://vcpiptv.com/vcp.ts?id=136399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",MOVIES 3 HD
+http://vcpiptv.com/vcp.ts?id=136400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",MOVIES 4 HD
+http://vcpiptv.com/vcp.ts?id=136401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",MOVIES 5 HD
+http://vcpiptv.com/vcp.ts?id=136402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",CRIME MOVIES 1 HD
+http://vcpiptv.com/vcp.ts?id=136419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",DRAMA MOVIES 1 HD
+http://vcpiptv.com/vcp.ts?id=136421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",DRAMA MOVIES 2 HD
+http://vcpiptv.com/vcp.ts?id=136422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",DRAMA MOVIES 4 HD
+http://vcpiptv.com/vcp.ts?id=136424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",DRAMA MOVIES 5 HD
+http://vcpiptv.com/vcp.ts?id=136425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",ACTION MOVIES 1 HD
+http://vcpiptv.com/vcp.ts?id=136430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",ACTION MOVIES 2 HD
+http://vcpiptv.com/vcp.ts?id=136431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",ROMANCE MOVIES 1 HD
+http://vcpiptv.com/vcp.ts?id=136434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",SIVAJI GANESAN MOVIES HD
+http://vcpiptv.com/vcp.ts?id=136442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",PARABHU MOVIES HD
+http://vcpiptv.com/vcp.ts?id=136446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",KARTHI MOVIES HD
+http://vcpiptv.com/vcp.ts?id=136453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",JAYAM RAVI MOVIES HD
+http://vcpiptv.com/vcp.ts?id=136454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/tamil.png" tvg-country="IN" tvg-url="" group-title="Tamil Movies - IPTV Channels",ARYA MOVIES HD
+http://vcpiptv.com/vcp.ts?id=136455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",STAR MAA TV HD
+http://vcpiptv.com/vcp.ts?id=168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini_Movies_HD
+http://vcpiptv.com/vcp.ts?id=212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini_Music_HD
+http://vcpiptv.com/vcp.ts?id=213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Gemini_TV_HD
+http://vcpiptv.com/vcp.ts?id=214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Zee Telugu HD
+http://vcpiptv.com/vcp.ts?id=1605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",STAR MAA MOVIES HD
+http://vcpiptv.com/vcp.ts?id=9015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Zee Cinemalu HD
+http://vcpiptv.com/vcp.ts?id=9016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Etv HD
+http://vcpiptv.com/vcp.ts?id=9017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI COMEDY HD
+http://vcpiptv.com/vcp.ts?id=9042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",STAR MAA GOLD
+http://vcpiptv.com/vcp.ts?id=9043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI LIFE HD
+http://vcpiptv.com/vcp.ts?id=9044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Cinema
+http://vcpiptv.com/vcp.ts?id=9045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Sony_BBC_Earth_HD_Telugu
+http://vcpiptv.com/vcp.ts?id=223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",V6_News
+http://vcpiptv.com/vcp.ts?id=228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",TV 5 News
+http://vcpiptv.com/vcp.ts?id=170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Sri_Venkateshwar_Bhakti
+http://vcpiptv.com/vcp.ts?id=233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ABN_Andhra_Jyothi
+http://vcpiptv.com/vcp.ts?id=234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",NTV TELUGU
+http://vcpiptv.com/vcp.ts?id=235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Plus
+http://vcpiptv.com/vcp.ts?id=242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Raj Music Telugu
+http://vcpiptv.com/vcp.ts?id=243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Vissa TV
+http://vcpiptv.com/vcp.ts?id=244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",DD Saptagiri
+http://vcpiptv.com/vcp.ts?id=4053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV AndhraPradesh
+http://vcpiptv.com/vcp.ts?id=9046
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",TV9 NEWS HD
+http://vcpiptv.com/vcp.ts?id=9047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Sakshi TV (News)
+http://vcpiptv.com/vcp.ts?id=9048
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",T News HD
+http://vcpiptv.com/vcp.ts?id=9049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Telangana
+http://vcpiptv.com/vcp.ts?id=9050
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Life
+http://vcpiptv.com/vcp.ts?id=9052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV Abhiruchi
+http://vcpiptv.com/vcp.ts?id=9053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",SVBC HD
+http://vcpiptv.com/vcp.ts?id=9054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ETV (FHD)
+http://vcpiptv.com/vcp.ts?id=23312
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.pngkit.com/png/detail/852-8523902_maa-tv-star-maa-hd-logo.png" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",STAR-MAA (FHD)
+http://vcpiptv.com/vcp.ts?id=23313
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",STAR-MAA-MOVIE (FHD)
+http://vcpiptv.com/vcp.ts?id=23314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://banner2.cleanpng.com/20180403/kkw/kisspng-gemini-tv-television-show-television-channel-gemin-gemini-5ac30d84a16399.8260756515227324206611.jpg" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI (FHD)
+http://vcpiptv.com/vcp.ts?id=23315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Telugu_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180924091239" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ZEE-TELUGU (FHD)
+http://vcpiptv.com/vcp.ts?id=23316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",ZEE-CINEMALU (FHD)
+http://vcpiptv.com/vcp.ts?id=23317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",BHAKTI TV
+http://vcpiptv.com/vcp.ts?id=34581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",RAJ NEWS
+http://vcpiptv.com/vcp.ts?id=52504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",Star Maa Music
+http://vcpiptv.com/vcp.ts?id=57772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwK-S38Qg_uSb8APgv7HtuAbTA5frEX-YkXQ&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI MOVIE (FHD)
+http://vcpiptv.com/vcp.ts?id=23797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Telugu - IPTV Channels",GEMINI MUSIC (FHD)
+http://vcpiptv.com/vcp.ts?id=23796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: ETV (4K).
+http://vcpiptv.com/vcp.ts?id=98885
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.pngkit.com/png/detail/852-8523902_maa-tv-star-maa-hd-logo.png" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: STAR-MAA (4K).
+http://vcpiptv.com/vcp.ts?id=98886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: STAR-MAA-MOVIE (4K).
+http://vcpiptv.com/vcp.ts?id=98887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://banner2.cleanpng.com/20180403/kkw/kisspng-gemini-tv-television-show-television-channel-gemin-gemini-5ac30d84a16399.8260756515227324206611.jpg" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: GEMINI (4K).
+http://vcpiptv.com/vcp.ts?id=98892
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Telugu_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180924091239" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: ZEE-TELUGU (4K).
+http://vcpiptv.com/vcp.ts?id=98894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K Telugu - IPTV Channels",Telugu: ZEE-CINEMALU (4K).
+http://vcpiptv.com/vcp.ts?id=98896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",STAR MOVIES HD
+http://vcpiptv.com/vcp.ts?id=979
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5f14/1565806488322/55fb00a38ead0e79178b5f14.jpg" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",STAR MOVIES SELECT HD
+http://vcpiptv.com/vcp.ts?id=218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",SONY PIX HD
+http://vcpiptv.com/vcp.ts?id=147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",MN PLUS
+http://vcpiptv.com/vcp.ts?id=178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",MNX HD
+http://vcpiptv.com/vcp.ts?id=191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/%26priv%C3%A9_hd.jpg/revision/latest/scale-to-width-down/340?cb=20200906062328" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",& PRIVE HD
+http://vcpiptv.com/vcp.ts?id=201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",& FLIX HD
+http://vcpiptv.com/vcp.ts?id=253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",HBO 2 HD
+http://vcpiptv.com/vcp.ts?id=185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",COLORS INFINITY HD
+http://vcpiptv.com/vcp.ts?id=187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",ZEECAFE HD
+http://vcpiptv.com/vcp.ts?id=196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",FYI TV18 HD
+http://vcpiptv.com/vcp.ts?id=152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",FOX LIFE
+http://vcpiptv.com/vcp.ts?id=2115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",& PRIVE (FHD)
+http://vcpiptv.com/vcp.ts?id=9379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",SONY PIX (FHD)
+http://vcpiptv.com/vcp.ts?id=9381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",MN+ (FHD)
+http://vcpiptv.com/vcp.ts?id=9383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",STAR MOVIES (FHD)
+http://vcpiptv.com/vcp.ts?id=9384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",FOX Life (FHD)
+http://vcpiptv.com/vcp.ts?id=9387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1280px-TLC-HD-Logo_2016.svg.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",TLC (FHD)
+http://vcpiptv.com/vcp.ts?id=9388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",ZEE Cafe (FHD)
+http://vcpiptv.com/vcp.ts?id=9389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",Colors INFINITY (FHD)
+http://vcpiptv.com/vcp.ts?id=9390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",STAR MOVIES SELECT (FHD)
+http://vcpiptv.com/vcp.ts?id=23270
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mUnoyTgTmDQgx5sR8Bpp4diXH_3NhSlIOw&usqp=CAU" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",MNX (FHD)
+http://vcpiptv.com/vcp.ts?id=23428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",ROMEDY NOW HD
+http://vcpiptv.com/vcp.ts?id=179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",COMEDY-CENTRAL (FHD)
+http://vcpiptv.com/vcp.ts?id=23429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Comedy_central_hd-630x355.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",COMEDY CENTRAL HD
+http://vcpiptv.com/vcp.ts?id=186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",Cinema World HD
+http://vcpiptv.com/vcp.ts?id=152369
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",Rock Entertainment HD
+http://vcpiptv.com/vcp.ts?id=152370
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/64/751/png-transparent-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-television-emblem-label.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",CINEMAX HD
+http://vcpiptv.com/vcp.ts?id=152371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",HBO Hits HD
+http://vcpiptv.com/vcp.ts?id=152372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.nicepng.com/png/detail/223-2236107_hbo-go-logo-png-hbo-3-hd.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",HBO HD
+http://vcpiptv.com/vcp.ts?id=152373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",Movies Now (FHD)
+http://vcpiptv.com/vcp.ts?id=152387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="English Movies - IPTV Channels",Movies Now SD
+http://vcpiptv.com/vcp.ts?id=152388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: STAR MOVIES (4K).
+http://vcpiptv.com/vcp.ts?id=98842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: STAR MOVIE SELECT (4K).
+http://vcpiptv.com/vcp.ts?id=98843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/340?cb=20191203075048" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: SONY PIX (4K).
+http://vcpiptv.com/vcp.ts?id=98846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWQXOJ9drU5QhldMYA_EziEwzmgCR3sJDBuo_HeWZaalxH6PxDIQc2QEJoez17lm_bw&usqp=CAU" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: AXN (4K).
+http://vcpiptv.com/vcp.ts?id=98915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: &PRIVE (4K).
+http://vcpiptv.com/vcp.ts?id=98840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: &FLIX (4K).
+http://vcpiptv.com/vcp.ts?id=98841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: MN+ (4K).
+http://vcpiptv.com/vcp.ts?id=98847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/19/Untitled-1.jpg?itok=60idFHQ6" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: ZEE CAFE (4K).
+http://vcpiptv.com/vcp.ts?id=98848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: Colors INFINITY (4K).
+http://vcpiptv.com/vcp.ts?id=98879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" tvg-country="IN" tvg-url="" group-title="4K English Movies - IPTV Channels",IN: FOX LIFE (4K).
+http://vcpiptv.com/vcp.ts?id=98876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 1 (4K).
+http://vcpiptv.com/vcp.ts?id=98864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 2 (4K).
+http://vcpiptv.com/vcp.ts?id=98865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS TAMIL 1 (FHD)
+http://vcpiptv.com/vcp.ts?id=199492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS TELUGU 1 (FHD)
+http://vcpiptv.com/vcp.ts?id=199493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 1 HINDI (4K).
+http://vcpiptv.com/vcp.ts?id=98866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS SELECT 1 (4K).
+http://vcpiptv.com/vcp.ts?id=98867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",START SPORTS SELECT 2 (4K).
+http://vcpiptv.com/vcp.ts?id=98868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TEN 1 (4K).
+http://vcpiptv.com/vcp.ts?id=98861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TEN 2 (4K).
+http://vcpiptv.com/vcp.ts?id=98862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TEN 3 (4K).
+http://vcpiptv.com/vcp.ts?id=98863
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",SONY TEN 5 (4K).
+http://vcpiptv.com/vcp.ts?id=98870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",EUROSPORTS (4K).
+http://vcpiptv.com/vcp.ts?id=98869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",Star Sports Select 1 (FHD)
+http://vcpiptv.com/vcp.ts?id=9400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",Star Sports Select 2 (FHD)
+http://vcpiptv.com/vcp.ts?id=9401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",Sony Ten 1 (FHD)
+http://vcpiptv.com/vcp.ts?id=9402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",Sony Ten 3 (FHD)
+http://vcpiptv.com/vcp.ts?id=9404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",SONY SIX (FHD)
+http://vcpiptv.com/vcp.ts?id=17565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",EUROSPORTS (FHD)
+http://vcpiptv.com/vcp.ts?id=23308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 1 HD
+http://vcpiptv.com/vcp.ts?id=199477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 2 HD
+http://vcpiptv.com/vcp.ts?id=199478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS HINDI HD
+http://vcpiptv.com/vcp.ts?id=199479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 1 (4K)
+http://vcpiptv.com/vcp.ts?id=199480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS 2 (4K)
+http://vcpiptv.com/vcp.ts?id=199481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STAR SPORTS HINDI (4K)
+http://vcpiptv.com/vcp.ts?id=199482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TEN SPORTS (FHD)
+http://vcpiptv.com/vcp.ts?id=199483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",PTV SPORTS (FHD)
+http://vcpiptv.com/vcp.ts?id=199484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cricketaddictor.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-2.23.26-PM.jpeg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",HUB SPORTS 4 (FHD)
+http://vcpiptv.com/vcp.ts?id=199485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e.top4top.io/p_24734bapv1.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STARZPLAY CricLife MAX HD
+http://vcpiptv.com/vcp.ts?id=199929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e.top4top.io/p_24734bapv1.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",STARZPLAY CricLife MAX (FHD)
+http://vcpiptv.com/vcp.ts?id=199486
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TNT SPORT 1 HD.
+http://vcpiptv.com/vcp.ts?id=199487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",TNT SPORT 1 (FHD)
+http://vcpiptv.com/vcp.ts?id=199488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cricketaddictor.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-29-at-2.23.26-PM.jpeg" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",ASIA CUP 2023 (LOW INTERNET)
+http://vcpiptv.com/vcp.ts?id=199489
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://stariptv.fun/logos/skysports3.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",SKY SPORT 3 (FHD)
+http://vcpiptv.com/vcp.ts?id=199490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",T SPORTS (FHD)
+http://vcpiptv.com/vcp.ts?id=199491
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" tvg-country="IN" tvg-url="" group-title="Sports - IPTV Channels",ASTRO CRICKET HD
+http://vcpiptv.com/vcp.ts?id=200738
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",HISTORY HD
+http://vcpiptv.com/vcp.ts?id=180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",HISTORY 18 (HINDI)
+http://vcpiptv.com/vcp.ts?id=5252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",DISCOVERY WORLD HD
+http://vcpiptv.com/vcp.ts?id=156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",NATIONAL GEOGRAPHIC INDIA
+http://vcpiptv.com/vcp.ts?id=7342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",NATIONAL GEOGRAPHIC
+http://vcpiptv.com/vcp.ts?id=7343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",NATGEO WILD HD
+http://vcpiptv.com/vcp.ts?id=7344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",SONY BBC EARTH HD (ENG)
+http://vcpiptv.com/vcp.ts?id=174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",SONY BBC EARTH HD (HINDI)
+http://vcpiptv.com/vcp.ts?id=7721
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",SONY BBC EARTH HD (ENGLISH)
+http://vcpiptv.com/vcp.ts?id=190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",TRAVEL XP HD (HINDI)
+http://vcpiptv.com/vcp.ts?id=181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",TRAVEL XP HD
+http://vcpiptv.com/vcp.ts?id=1623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",ANIMAL PLANET HD
+http://vcpiptv.com/vcp.ts?id=182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",ANIMAL PLANET (FHD)
+http://vcpiptv.com/vcp.ts?id=9391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",HISTORY TV (FHD)
+http://vcpiptv.com/vcp.ts?id=9392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",DISCOVERY (FHD)
+http://vcpiptv.com/vcp.ts?id=9393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",National GEO (FHD)
+http://vcpiptv.com/vcp.ts?id=9394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",NAT Geo Wild (FHD)
+http://vcpiptv.com/vcp.ts?id=9395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",Sony BBC EARTH (FHD)
+http://vcpiptv.com/vcp.ts?id=9396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-24-hour-delivery-service-red-gradient-arrow-png-image_5518179.jpg" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",24/7 Doc: Cutest Animals_Dangerous Animals_ Asia_&_ Latin America
+http://vcpiptv.com/vcp.ts?id=121318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://png.pngtree.com/png-clipart/20201208/original/pngtree-24-hour-delivery-service-red-gradient-arrow-png-image_5518179.jpg" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",24/7 Doc: Our_Planet_&_Animal
+http://vcpiptv.com/vcp.ts?id=121317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/472/359/png-transparent-customer-service-24-7-service-northborough-tree-services-patton-text-service-logo.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",24/7 Doc: Planet_earth_Season_1_&_2
+http://vcpiptv.com/vcp.ts?id=121328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/472/359/png-transparent-customer-service-24-7-service-northborough-tree-services-patton-text-service-logo.png" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",24/7 Doc: Absurd Planet_Night on Earth_Our Great National Parks
+http://vcpiptv.com/vcp.ts?id=121338
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Infotainment - IPTV Channels",TravelXp HD (ENG)
+http://vcpiptv.com/vcp.ts?id=143205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1280px-TLC-HD-Logo_2016.svg.png" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: TLC (4K).
+http://vcpiptv.com/vcp.ts?id=98878
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/Discovery_HD_World.png/revision/latest?cb=20190102093400" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: DISCOVERY (4K).
+http://vcpiptv.com/vcp.ts?id=98872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: ANIMAL PLANET (4K).
+http://vcpiptv.com/vcp.ts?id=98873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: National GEO (4K).
+http://vcpiptv.com/vcp.ts?id=98874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: NAT Geo Wild (4K).
+http://vcpiptv.com/vcp.ts?id=98875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: Sony BBC EARTH (4K).
+http://vcpiptv.com/vcp.ts?id=98871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: HISTORY TV (4K).
+http://vcpiptv.com/vcp.ts?id=98877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="4K Infotainment - IPTV Channels",IN: NICK (4K).
+http://vcpiptv.com/vcp.ts?id=98880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/good-news-today-in.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Good news TV
+http://vcpiptv.com/vcp.ts?id=9041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",NDTV 24x7
+http://vcpiptv.com/vcp.ts?id=247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",NEWS 18 INDIA
+http://vcpiptv.com/vcp.ts?id=2436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels", DD News
+http://vcpiptv.com/vcp.ts?id=4043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels", Aaj_Tak
+http://vcpiptv.com/vcp.ts?id=5409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Zee Rajasthan news
+http://vcpiptv.com/vcp.ts?id=7063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Zee News
+http://vcpiptv.com/vcp.ts?id=7259
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels", ABP NEWS
+http://vcpiptv.com/vcp.ts?id=7260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",NDTV INDIA
+http://vcpiptv.com/vcp.ts?id=7430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",India news
+http://vcpiptv.com/vcp.ts?id=7431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",News18 News UP
+http://vcpiptv.com/vcp.ts?id=7435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",News18 India (News)
+http://vcpiptv.com/vcp.ts?id=7436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",NDTV Profit (news)
+http://vcpiptv.com/vcp.ts?id=7437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",IN:Republic TV (English)
+http://vcpiptv.com/vcp.ts?id=9056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Republic TV HD
+http://vcpiptv.com/vcp.ts?id=9080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",CNBC Awaaz (News) HD
+http://vcpiptv.com/vcp.ts?id=9116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",CNBC Tv 18 (News)
+http://vcpiptv.com/vcp.ts?id=9117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",WION TV
+http://vcpiptv.com/vcp.ts?id=9481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Zee MP (News)
+http://vcpiptv.com/vcp.ts?id=9725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",1st India (News)
+http://vcpiptv.com/vcp.ts?id=9974
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels", India TV NEWS
+http://vcpiptv.com/vcp.ts?id=23247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels", India News
+http://vcpiptv.com/vcp.ts?id=23248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",AAJTAK (HD)
+http://vcpiptv.com/vcp.ts?id=23795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Zee Business (News)
+http://vcpiptv.com/vcp.ts?id=23938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",SADHNA TV
+http://vcpiptv.com/vcp.ts?id=25076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",INDIA TODAY (News)
+http://vcpiptv.com/vcp.ts?id=35714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",News18 Rajasthan
+http://vcpiptv.com/vcp.ts?id=37071
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",Times Now World HD
+http://vcpiptv.com/vcp.ts?id=124897
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/times-now-navbharat-in.png" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",TimesNow NavaBharat HD
+http://vcpiptv.com/vcp.ts?id=155585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="News - IPTV Channels",GNT NEWS
+http://vcpiptv.com/vcp.ts?id=156011
